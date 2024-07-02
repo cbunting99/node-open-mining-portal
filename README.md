@@ -1,5 +1,5 @@
 ## Notice: 
-This has been installed on Ubuntu 20.04. May work on other versions.
+This has been installed on Ubuntu 20.04. May work on other versions but I haven't tried. I've included what I used to install the pool below.
 
 --------
 
