@@ -1,4 +1,5 @@
-## This repo is looking for maintainers! Please reach out if interested.
+## Notice: 
+This has been installed on Ubuntu 20.04. May work on other versions.
 
 --------
 
