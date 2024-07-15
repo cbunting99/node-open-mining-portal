@@ -34,7 +34,7 @@ sudo apt-get install build-essential libsodium-dev libboost-all-dev libgmp3-dev 
 sudo apt-get update
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 source ~/.profile
-nvm install 16.20.0
+nvm install 12.22.6
 sudo apt-get install redis-server
 
 git clone https://github.com/cbunting99/node-open-mining-portal.git nomp
